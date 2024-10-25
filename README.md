@@ -2,11 +2,11 @@
 
 For guidance on setting up and submitting this assignment, refer to the Marcy lab School Docs How-To guide for [Working with Short Response and Coding Assignments](https://marcylabschool.gitbook.io/marcy-lab-school-docs/fullstack-curriculum/how-tos/working-with-assignments#how-to-work-on-assignments).
 
-## Question 1
+## Prompt 1
 
 Watch this (10 minute video on JSON)[https://www.youtube.com/watch?v=iiADhChRriM].
 
-What is JSON? Why isn't the example below valid JSON?
+Explain what JSON is. Use the example below to point out some of the quirks of JSON, explaining why it is not valid JSON.
 
 ```js
 {
@@ -20,9 +20,9 @@ What is JSON? Why isn't the example below valid JSON?
 
 Add your response here...
 
-## Question 2
+## Prompt 2
 
-What is a pure function? Is the `addBostonToList` function below a pure function? Why or why not?
+Explain what a pure function is. Use the example below to help you with your explanation, making sure to indicate why it is (or is not) a pure function.
 
 ```js
 const favoriteLocations = ["New York City", "Jersey City"];
@@ -37,17 +37,17 @@ console.log(favoriteLocations);
 
 Add your response here...
 
-## Question 3
+## Prompt 3
 
-Check out [the docs for the rest operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters) for this question.
+Check out [the docs for the rest operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters).
 
-When would you use the rest operator and when would you use the spread operator?
+Explain when you would use the rest operator in a function. Provide an example to enhance your explanation.
 
 ### Response 3
 
 Add your response here...
 
-## Question 4
+## Prompt 4
 
 You are building an app and have to store data about user profiles. Each user profile is represented by an Object with an `id`, `username` and `password` like this:
 
@@ -65,7 +65,7 @@ Now, imagine you had hundreds of these user profiles. Would it be better to stor
 
 Add your response here...
 
-## Question 5
+## Prompt 5
 
 Imagine you are teaching a brand new programmer a brief lesson about `while` loops. Your lesson should have the following components:
 * An explanation of the concept with an analogy ("A `while` loop is a ... It is like a ...")
