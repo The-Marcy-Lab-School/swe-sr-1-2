@@ -59,7 +59,7 @@ You are building an app and have to store data about user profiles. Each user pr
 }
 ```
 
-Now, imagine you had hundreds of these user profiles. Would it be better to store all of those user profile Objects in an Array, or in an Object? Why?
+Now, imagine you had hundreds of these user profiles. Would it be better to store all of those objects in an array of objects, or in an object of objects? Why?
 
 ### Response 4
 
