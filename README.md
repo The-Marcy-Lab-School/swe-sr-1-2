@@ -68,7 +68,7 @@ Add your response here...
 ## Prompt 5
 
 Imagine you are teaching a brand new programmer a brief lesson about `while` loops. Your lesson should have the following components:
-* An explanation of the concept with an analogy ("A `while` loop is a ... It is like a ...")
+* An explanation of the concept, when it is appropriate to be used, and an analogy ("A `while` loop is a ... It is like a ...")
 * An example of the syntax for a `while` loop using a JavaScript code block (triple back ticks)
 * An explanation of the syntax using the terms **`while` keyword**, **code block**, and **stop condition**
 
